@@ -3,4 +3,4 @@
 .venv
 .DS_Store
 .MacOSX/
-./visual_groups/*
+.visual_groups/*
