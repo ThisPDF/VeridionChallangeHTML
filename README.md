@@ -116,4 +116,5 @@ driver = webdriver.Chrome(options=chrome_options)
 
 - Well, this story is long and I got bored of writing it, but now, after a weekend, I am here and I hope I did a good job.  
 - (If not, I hope I made someone smile with this story.)
+- (I committed the code to GitHub and i forgot about the .idea folder)
 
