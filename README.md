@@ -113,8 +113,11 @@ driver = webdriver.Chrome(options=chrome_options)
 (What to do from here...)
 
 - Here entered the magic of copy-paste and Stack Overflow.
+- Code was ready to go(it worked it grouped the pages well ) problem? ofc selenium took ages to take the sceenshots.(i think i need some optimization here)
+- Solution ?? multithreading.(i had to limit the instances of chrome in order for my house to not burn down)
+- other problems? of corse but this story is long and i am bored of writing it.
 
-- Well, this story is long and I got bored of writing it, but now, after a weekend, I am here and I hope I did a good job.  
+- After a weekend, I am here and I hope I did a good job.  
 - (If not, I hope I made someone smile with this story.)
 - (I committed the code to GitHub and i forgot about the .idea folder)
 
