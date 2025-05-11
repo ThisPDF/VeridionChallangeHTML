@@ -22,7 +22,7 @@ def create_chrome_driver():
 
 
 # This function renders the HTML file and takes a screenshot of it
-# Optimization: This is run in parallel using multiprocessing
+# Optimization: This is run in parallel using multithreading
 def render_and_screenshot_task(args):
     html_file_path, screenshot_path = args
     driver = None
