@@ -147,7 +147,7 @@ def process_tier(tier_path, tier_name, output_root, save_groups=False, max_worke
 if __name__ == "__main__":
     ROOT_DIR = "./clones"
     OUTPUT_DIR = "./visual_groups"
-    SAVE_GROUPS = False  # Set to True if you want to inspect results visually
+    SAVE_GROUPS = True  # Set to True if you want to inspect results visually
     MAX_WORKERS = min(8, cpu_count())  # Cap the number of parallel Chrome instances
 
     # Clean the output dir if it exists and we’re not saving groups

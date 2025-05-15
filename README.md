@@ -121,3 +121,6 @@ driver = webdriver.Chrome(options=chrome_options)
 - (If not, I hope I made someone smile with this story.)
 - (I committed the code to GitHub and i forgot about the .idea folder)
 
+### !!! Important Note !!!
+-In the code there is a line "SAVE_GROUPS = True" if you set this to false the code will not save any photos and will only show the command line results
+-"visual_groups" is the folder where the grouped screenshots are saved after you run the code i uploaded the folder to the repository for simplification
